@@ -1,0 +1,2 @@
+-nullable:enable
+-nowarn:CS0612,CS0618
